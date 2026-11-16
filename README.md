@@ -684,6 +684,9 @@ Tools to see what is happening on the mesh.
 #### Sweden
 
 - [Meshat.se](https://meshcore.meshat.se/) - Swedish network map and resources.
+- [meshcore-sth](https://meshcore-ost.se/) - Local site for Östergötland regionen, with wizards and map.
+- [meshcore-sth](https://meshcore-sth.se/) - Local site for Stockholm regionen, with wizards and map.
+- [meshcore-vgr](https://meshcore-vgr.se/) - Local site for Västra Götalands regionen, with wizards and map.
 
 #### Switzerland
 
